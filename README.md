@@ -1,4 +1,4 @@
-# CSE481_QuantumComputing1
+# CSE481_QuantumComputing-I
 This repository contains all the theory resources and lab assignments done in the course CSE481 of BracU <br>
 
 # Lecture Recordings
