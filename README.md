@@ -1,5 +1,6 @@
 # CSE481 Quantum Computing - I
 This repository contains all the theory resources and lab assignments done in the course CSE481 of BracU <br>
+[Theory and Lab class recordings](https://youtube.com/playlist?list=PLtQXTSdoymQe7ou_ibB_YzUsmA3jJxSJ8&si=QXcZC2C85TFqp7ku)
 
 # Theory Resources
 [Tutorial](https://drive.google.com/drive/folders/1Jr4mvPfPdKNCZyWw6sjh12aJIunpE0_8?usp=sharing)
