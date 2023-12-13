@@ -10,5 +10,6 @@ This repository contains all the theory resources and lab assignments done in th
 [[CSE490.1] Quantum Computing - Lectures | Summer '20 | BRAC University](https://youtube.com/playlist?list=PLvj5w6iNZqVh1xEngYv-YRrV00O89HVrb&si=-PQbFe_YA5cn8Tm6) <br>
 [[CSE490.1] Quantum Computing - Live Sessions | Summer '20 | BRAC University](https://youtube.com/playlist?list=PLvj5w6iNZqVjI42wggGqWM3qUqibQcbgn&si=IEsCXf1sI58iZ_AG) <br>
 [BRACU Quantum Computing Boot-Camp](https://youtube.com/playlist?list=PLvj5w6iNZqVg_f6tGzuWkNj873pkHjrvK&si=kYR1Jtt0tgso-vsi) <br>
+[Quantum Computing Hardware and Architecture (EE274 SJSU)](https://youtube.com/playlist?list=PLnK6MrIqGXsL1KShnocSdwNSiKnBodpie&si=bSFfsYJ7CJgJXZl3)
 
 
